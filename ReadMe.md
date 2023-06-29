@@ -19,7 +19,7 @@ Analise e desenvolvimento de sistemas Estacio de sá
 
 <a href="https://www.linkedin.com/in/gilberto-juniorsantos/"><img src="LinkedIn-0077B5_style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite.png"></a>
 
- ## 💬 Liguagens de programação
+ ## 💬 Linguagens de programação
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
