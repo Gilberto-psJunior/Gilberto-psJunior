@@ -21,7 +21,7 @@ Analise e desenvolvimento de sistemas Estacio de sá
 
  ## 💬 Languages and tools
 
- [![My Skills]k(https://skillicons.dev/icons?i=js,html,css,java,react,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,git)](https://skillicons.dev)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-psJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
