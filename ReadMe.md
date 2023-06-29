@@ -19,9 +19,9 @@ Analise e desenvolvimento de sistemas Estacio de sá
 
 <a href="https://www.linkedin.com/in/gilberto-juniorsantos/"><img src="LinkedIn-0077B5_style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite.png"></a>
 
- ## 💬 Linguagens de programação
+ ## 💬 Languages and tools
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+ [![My Skills]k(https://skillicons.dev/icons?i=js,html,css,java,react,git)](https://skillicons.dev)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-psJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
