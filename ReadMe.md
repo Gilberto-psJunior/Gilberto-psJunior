@@ -4,17 +4,17 @@
 # Hello there 👋
 
 
-## 🚀 Sobre mim
-Me chamo <strong> Gilberto Júnior</strong>
+## 🚀 About me
+My name is <strong> Gilberto Júnior</strong>
 
 
-Eu sou estudante de desenvolvimento web fullstack...
+Im a student of web fullstack development focused on reactk...
 
-## 🎓 Formação 
+## 🎓 Formation 
 
-16ª edição do curso starter web fullstack Growdev
+16ª edition of  starter web fullstack Growdev course
 
-Analise e desenvolvimento de sistemas Estacio de sá
+Analysis and development of systems Estacio de sá
 ## ⚡ Social
 
 <a href="https://www.linkedin.com/in/gilberto-juniorsantos/"><img src="LinkedIn-0077B5_style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite.png"></a>
